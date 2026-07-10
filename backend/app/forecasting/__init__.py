@@ -1,0 +1,1 @@
+from app.forecasting.forecaster import run_metric_forecast

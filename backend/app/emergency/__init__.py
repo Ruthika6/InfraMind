@@ -1,0 +1,1 @@
+from app.emergency.emergency_manager import generate_emergency_plan
